@@ -63,12 +63,12 @@ with it as it may lead to the game not starting
 
 ## Screenshots
 
-The Game:
+###### The Game:
 ![alt text](https://github.com/karanshah229/BlackJack---Python-Game/blob/master/screenshots/game/new_game.JPG "New Game")  
 ![alt text](https://github.com/karanshah229/BlackJack---Python-Game/blob/master/screenshots/game/player_wins.JPG "Player Wins")  
 ![alt text](https://github.com/karanshah229/BlackJack---Python-Game/blob/master/screenshots/game/dealer_wins.JPG "Dealer Wins")  
 
-Installation:
+###### Installation:
 ![alt text](https://github.com/karanshah229/BlackJack---Python-Game/blob/master/screenshots/installer/1.JPG "Select install location")
 ![alt text](https://github.com/karanshah229/BlackJack---Python-Game/blob/master/screenshots/installer/2.JPG "Double-click blackjack.exe file")
 
