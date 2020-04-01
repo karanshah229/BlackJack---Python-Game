@@ -116,7 +116,7 @@ def new_game():
     player_card_frame = tkinter.Frame(card_frame, background="green")
     player_card_frame.grid(row=2, column=1, sticky='ew', rowspan=2)
 
-    result_text.set("")    
+    result_text.set("All the best!")    
     
     # Reset States to normal
     player_button['state'] = 'normal'
@@ -145,6 +145,7 @@ mainWindow.geometry("640x480")
 mainWindow.configure(background='green')
 
 result_text = tkinter.StringVar()
+result_text.set("All the best!")
 result = tkinter.Label(mainWindow, textvariable=result_text)
 result.grid(row=0, column=0, columnspan=3)
 
@@ -184,7 +185,6 @@ shuffle_button.grid(row=0, column=3)
 # load cards
 cards = []
 load_images(cards)
-print(cards)
 # Create a new deck of cards and shuffle them
 deck = list(cards) + list(cards) + list(cards)
 shuffle()
