@@ -31,8 +31,8 @@ You double-click run it as well. See Install Instructions and FAQ for further qu
 ## Install Instructions
 
 1. Git clone the repository or alternatively download all the files and extract them
-2. There are 3 ways to play this game:
-	#######1. Installing the game:
+2. There are 3 ways to play this game:  
+#######1. Installing the game:  
 		0. Complete Step 1 above
 		1. Double-click on blackjack_installer.exe and proceed to install  
 		the game on your computer
@@ -40,13 +40,13 @@ You double-click run it as well. See Install Instructions and FAQ for further qu
 		3. Open Explore to the install location and double-click 'blackjack.exe'   
 		to start the game
 		4. Enjoy!
-	#######2. Run the game directly (No install required):
+#######2. Run the game directly (No install required):  
 		0. Complete Step 1 above
 		1. Navigate to download location (or Clone Location)
 		2. Go to 'dist' folder
 		3. Double-click blackjack.exe to start the game
 		4. Enjoy!
-	#######3. Run Python Script (Experienced Users only):
+#######3. Run Python Script (Experienced Users only):  
 		0. Complete Step 1 above
 		1. Navigate to 'source' folder
 		2. Open terminal in the same location
